@@ -109,8 +109,6 @@ export const StatsWrap = styled.div`
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin-left: auto;
-  margin-right: auto;
 `;
 
 export const TweetStats = styled.p`
